@@ -2,7 +2,7 @@
 
 ### My name is Adele
 
-![my_photo](![image](https://github.com/user-attachments/assets/2cfc75fd-3e72-4549-8b92-0cf762a812b5))
+![my_photo](https://github.com/user-attachments/assets/2cfc75fd-3e72-4549-8b92-0cf762a812b5))
 
 
 **I'm singer**
