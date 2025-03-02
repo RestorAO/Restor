@@ -6,3 +6,16 @@
 
 **I'm singer**
 *There is example of my code*
+
+```javascript
+let Adele = singer;
+
+do{
+code();
+}
+while(Adele);
+
+function code(){
+alert("Rolling in the deep")
+}
+```
